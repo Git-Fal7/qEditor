@@ -2,7 +2,7 @@
 Type=Application
 Name=qEditor
 Comment=Text editor made in qt
-Icon=acessories-text-editor
+Icon=accessories-text-editor
 Exec=qEditor
 TryExec=qEditor
 Categories=Qt;Development;IDE;TextEditor;
